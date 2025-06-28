@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pymupdf
-ibm-watsonx-ai
-langchain
-python-dotenv
